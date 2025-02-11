@@ -6,8 +6,8 @@ print("\x1b[1;39m■" * 60)
 print(vip)
 print("~ Programmer : @ShridharX |  Channel: @ShridharLegacy ~")
 print("\x1b[1;39m■" * 60)
-print(f"""\x1b[38;5;117m1\x1b[38;5;231m - Gmail [META] [Pydroid] | \x1b[1;32m✅
-\x1b[38;5;117m2\x1b[38;5;231m - Gmail [META] [Termux] | \x1b[1;32m✅
+print(f"""\x1b[38;5;117m1\x1b[38;5;231m - Gmail [META] [Pydroid] | \x1b[1;32m❌
+\x1b[38;5;117m2\x1b[38;5;231m - Gmail [META] [Termux] | \x1b[1;32m❌
 \x1b[38;5;117m3\x1b[38;5;231m - Gmail [META BUSINESS] [Pydroid] | \x1b[1;32m✅
 \x1b[38;5;117m4\x1b[38;5;231m - Gmail [META BUSINESS] [Termux] | \x1b[1;32m✅
 \x1b[38;5;117m5\x1b[38;5;231m - Gmail [META BUSINESS] [Random] [Pydroid] | \x1b[1;32m✅
